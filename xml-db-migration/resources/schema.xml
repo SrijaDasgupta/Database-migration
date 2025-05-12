@@ -1,0 +1,7 @@
+<database name="TargetDB">
+    <table name="employee">
+        <column name="id" type="INT" primaryKey="true"/>
+        <column name="name" type="VARCHAR(100)"/>
+        <column name="email" type="VARCHAR(100)"/>
+    </table>
+</database>
